@@ -1,0 +1,12 @@
+{
+    "identity": {
+        "name": "Naveen",
+        "voice_persona": "Professional-Desi-Hinglish",
+        "primary_language": "Hinglish"
+    },
+    "interest_graph": {
+        "core_domains": ["AI Automation", "Space Tech", "Sovereign Individualism"],
+        "favorite_channels": ["UC_x5XG1OV2P6uqz75XY9fA"],
+        "trusted_websites": ["https://techcrunch.com", "https://news.ycombinator.com"]
+    }
+}

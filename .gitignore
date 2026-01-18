@@ -1,0 +1,13 @@
+# Ignore Virtual Env
+venv/
+.env
+
+# Ignore OS files
+.DS_Store
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+
+# Ignore Streamlit secrets (Agar future mein use kiya)
+.streamlit/secrets.toml
