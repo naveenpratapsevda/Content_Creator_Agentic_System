@@ -347,15 +347,3 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
--- ═══════════════════════════════════════════════════════════════════════════════
--- NOTES
--- ═══════════════════════════════════════════════════════════════════════════════
-
--- To create database:
--- createdb sovereign_cinema
--- psql -d sovereign_cinema -f database_schema.sql
-
--- To reset (CAREFUL - deletes all data):
--- DROP SCHEMA public CASCADE;
--- CREATE SCHEMA public;
--- Then run this file again
